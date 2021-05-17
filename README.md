@@ -1,7 +1,3 @@
----
-typora-copy-images-to: images
----
-
 # Yorozuya
 
 这是一个计算机软工方向软件工程课程项目——万事屋(Yorozuya)
